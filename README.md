@@ -1,8 +1,8 @@
-<h1 align="center" id="title">Quizz simulator</h1>
+<h1 align="center" id="title">Amigo Secreto</h1>
 
-<p align="center"><img src="https://socialify.git.ci/alexcamachogz/quizz-multioption/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://pbs.twimg.com/profile_images/378800000749000200/62cd4dd7fb172264419712b48438aa3b_400x400.png" alt="project-image"></p>
 
-<p id="description">Quizz is an app that let you response some pre loaded questions and know if your answer is correct or not. You will be able to study using this app to prepare for your exams. You will only need write the questions you need in the QuizModel file.</p>
+<p id="description">Quizz is an application that allows you to find out the secret friend that a list of friends. You can add more friends to the list using this application to prepare to meet the secret friend. You will only need to sort through the list by clicking on the Amigo Sorteat.</p>
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ Here're some of the project's best features:
 ## Installation Steps:
 
 1. Clone the repository.
-2. Open the project with Xcode.
+2. Open the project with VSCode.
 3. Run the app and enjoy it.
 
 ## The process 
@@ -40,9 +40,10 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
-*   Swift 5.6
-*   Xcode 13.3
-*   iOS 15.5
+*   Visual Studio Code
+*   HTML
+*   CSS
+*   JavaScript
 
 ### Quiz structure
 
@@ -77,8 +78,8 @@ let quiz = [
 
 ## Useful resources
 
-* [Canva](https://www.canva.com) - Used to create graphics.
-* [Classes and Structures](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html) - A guide to Structures and Classes.
+* [Trello](https://trello.com/es) - Used to manage application development.
+* [MDN Web Docs](https://developer.mozilla.org/en-US/) - Provides information on open web technologies.
 
 ## License:
 
@@ -86,4 +87,4 @@ let quiz = [
 
 ## Author
 
-Made with 💜 by [alexcamachogz](https://twitter.com/alexcamachogz)
+Made with 💙 by [ArlindoAguedo](www.linkedin.com/in/arlindoat)
